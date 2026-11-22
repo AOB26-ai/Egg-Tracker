@@ -8,6 +8,9 @@ A simple REST API for logging daily egg production per shed. Built for a poultry
 - **GET `/api/eggs`** – Retrieve all records with a running total
 - In-memory storage (data resets when the server restarts)
 
+## Live Demo
+https://egg-tracker-wd4b.onrender.com
+
 ## Requirements
 
 - Python 3.8+
